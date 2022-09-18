@@ -31,7 +31,6 @@ const App= ()=> {
 
   // the above code is to apply the fonts to the whole appication
 
-
   return (
     <NavigationContainer theme={theme}>
       <Stack.Navigator screenOptions={{headerShow: false}} initialRouteName="Home">
