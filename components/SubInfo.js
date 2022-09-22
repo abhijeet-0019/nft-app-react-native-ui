@@ -10,7 +10,8 @@ export const NFTTitle = ({title, subTitle, titleSize, subTitleSize}) => {
             fontFamily: FONTS.regular,
             fontWeight: '700',
             fontSize: titleSize,
-            color: COLORS.primary
+            color: COLORS.primary,
+            // margin: '5%'
           }}>
             {title}
           </Text>
