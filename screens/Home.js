@@ -17,7 +17,7 @@ const Home = ()=> {
         if(filteredData.length){
             setnftData(filteredData);
         }else{
-            setnftData(NFTData);
+            setnftData(null);
         }
     }
 
