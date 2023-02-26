@@ -18,6 +18,6 @@ This project is a simple NFT marketplace UI built using React Native. The app al
 - Thanks to the React Native community for providing helpful resources and components.
 - Thanks to Adrian Hajdin - of JS Mastery to guide me to build this amazing project. [@adrianhajdin](https://github.com/adrianhajdin)
 
-
+### Snap
 ![App Screenshot](https://github.com/abhijeet-0019/nft-app-react-native-ui/blob/master/sample_screenshot.png)
 
